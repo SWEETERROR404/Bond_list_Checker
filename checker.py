@@ -18,7 +18,7 @@ try:
 except:
     pass
 
-user_input = input("Press D for Downlaod list \nPress C for Check list \n")
+user_input = input("Press D for Download list \nPress C for Check list \n")
 
 #Download Function
 def Download():
